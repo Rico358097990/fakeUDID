@@ -1,0 +1,10 @@
+Package: com.yourcompany.yrudid
+Name: yrudid
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Rip
+Author: Rip
+Section: Tweaks
+Version: 0.0.1-10+debug
+Installed-Size: 168
